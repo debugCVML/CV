@@ -1,4 +1,4 @@
-# Résumé
+# Resume
 
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
 
