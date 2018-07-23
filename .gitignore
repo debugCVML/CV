@@ -70,6 +70,6 @@ myresume.pdf
 
 myresume-zh_CN.tex
 
-myresume-zh_CN.pdf
-
 *.pdf
+
+!pdf/resume-zh_CN.pdf
